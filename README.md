@@ -6,7 +6,7 @@ The C# scripts are the bridge scripts for my FYP: Blockchain Applications for Un
 
 The solidity script is the smart contract used for my FYP: Blockchain Applications for Unity
 
-The link to the latest version of the serious game I have created to test smart contract functions:
-https://ipfs.thirdwebcdn.com/ipfs/QmRoXcVse8PtyrFzQPJzNHG8rqZortg612DCHZJ2EXxUfi/ 
+The link to the latest version of the serious game I have created to test smart contract functions:  
+#Please do not visit the link. I think it got hacked. I will build and repost the game on another link when I have the time.
 
 Play in full screen for best experience!
